@@ -1,0 +1,16 @@
+INFO:root:TEST CASE 1(RF1)
+INFO:root:PASS using the debugger
+INFO:root:END TEST CASE
+INFO:root:TEST CASE 3(RF2)
+INFO:root:The user is {'id': 1, 'name': 'Alex'}
+INFO:root:PASS
+INFO:root:END TEST CASE
+INFO:root:TEST CASE 3(RF3)
+INFO:root:PASS using the debugger
+INFO:root:END TEST CASE
+INFO:root:TEST CASE 4(RF4)
+ERROR:root:FAIL, the names returned are [1, 3]
+INFO:root:END TEST CASE
+INFO:root:TEST CASE 5(RFN1)
+INFO:root:PASS
+INFO:root:END TEST CASE
